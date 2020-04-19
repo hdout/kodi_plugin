@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="30000">Russian</string>
+	<string id="30001">Пользователь</string>
+	<string id="30002">Пароль</string>
+	
+	<string id="30003">Ошибка</string>	
+	<string id="30004">Проблемы с сетью или сервером</string>
+	<string id="30005">Полученные данные некорректны</string>
+	<string id="30006">Эпизод не обнаружен</string>
+	<string id="30007">Не хватает средств для просмотра</string>
+	<string id="30008">Что-то пошло совсем не так</string>
+	
+	<string id="30010">Все сериалы</string>
+	<string id="30011">Избранные сериалы</string>
+	<string id="30012">Последние поступления сериалов</string>
+	<string id="30013">Последние поступления избранных сериалов</string>
+
+	<string id="30050">Настройки</string>
+	
+	<string id="30100">Субтитры (если есть) для сериалов</string>
+	<string id="30101">Не использовать</string>
+	<string id="30102">Русские</string>
+	<string id="30103">Английские</string>
+
+	<string id="30301">Буду смотреть на HDOut.TV</string>
+	<string id="30302">Не смотрю больше на HDOut.TV</string>
+</strings>

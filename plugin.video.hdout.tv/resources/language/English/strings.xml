@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="30000">English</string>
+	<string id="30001">Login</string>
+	<string id="30002">Password</string>
+	
+	<string id="30003">Error</string>	
+	<string id="30004">Network or server endpoint troubles</string>
+	<string id="30005">The resieved data isn't correct</string>
+	<string id="30006">Episode wasn't found</string>
+	<string id="30007">You haven't pre-paid days</string>
+	<string id="30008">Something gonna wrong</string>
+	
+	<string id="30010">TV Show - All series</string>
+	<string id="30011">TV Show - Favorites</string>
+	<string id="30012">TV Show - New episodes</string>
+	<string id="30013">TV Show - New episodes from favorites</string>
+
+	<string id="30050">Prefs</string>
+
+	<string id="30100">Subtitles for HDOut.TV</string>
+	<string id="30101">No</string>
+	<string id="30102">Russian</string>
+	<string id="30103">English</string>
+
+	<string id="30301">Add to favorites on HDOut.TV</string>
+	<string id="30302">Remove from favorites on HDOut.TV</string>
+</strings>

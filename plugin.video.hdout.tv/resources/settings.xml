@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<setting id="login" type="text" label="30001" default="" />
+	<setting id="password" type="text" label="30002" option="hidden" default="" />
+	<setting id="subhd" type="enum" label="30100" lvalues="30101|30102|30103" default="30101" />
+</settings>
